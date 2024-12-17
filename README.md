@@ -67,11 +67,9 @@ git commit -m "Добавлен функционал управления зад
 ```
 git flow feature finish task-management
 ```
-![image](finishtask.png)
-
 Git Flow автоматически удалил ветку feature/task-management и переключился на ветку develop:
 
-![image](.png)
+![image](finishtask.png)
 
 7. Начнала создание релиза:
 
