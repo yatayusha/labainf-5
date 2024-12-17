@@ -61,14 +61,13 @@ git flow feature start task-management
 git add task_manager.py
 git commit -m "Добавлен функционал управления задачами"
 ```
-![image](functional.png)
 
 6. После завершения разработки функции завершила фичу и объединила ее с основной веткой:
 
 ```
 git flow feature finish task-management
 ```
-
+![image](finishtask.png)
 
 Git Flow автоматически удалил ветку feature/task-management и переключился на ветку develop:
 
