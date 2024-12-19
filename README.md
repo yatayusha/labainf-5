@@ -29,7 +29,7 @@ git commit -m "Проверка файлов"
 
 и скрипт выводит информацию сразу для всех файлов
 
-![image](proverkaresult1.png)
+![image](results.png)
 
 ## Задание 2 - Использование Git Flow в проекте
 
